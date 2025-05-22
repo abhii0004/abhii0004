@@ -22,7 +22,7 @@ I'm an aspiring software developer who enjoys building web apps and learning new
 ---
 
 ## 📈 GitHub Stats
-![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhij0004&show_icons=true&theme=tokyonight)
+![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhii0004&show_icons=true&theme=tokyonight)
 
 ---
 
